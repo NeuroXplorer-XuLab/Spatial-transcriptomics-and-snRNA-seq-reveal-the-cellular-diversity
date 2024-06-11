@@ -3,7 +3,7 @@
 
 Here is the code of our paper: **The Developmental Progress of Human Cerebellum Investigated by Multi-omics High-resolution Sequencing Technologies**
 
-![breif view of our paper](./picture1/picture1_00.png)
+![breif view of our paper](./picture_0_0.png)
 
 
 **If you have any questions, please contact us：**[**Our Lab**](http://english.genetics.cas.cn/people/faculty/index_20424.html?json=http://sourcedb.genetics.cas.cn/yw/people/peop/faculty/200907/t20090721_2130952.json)
